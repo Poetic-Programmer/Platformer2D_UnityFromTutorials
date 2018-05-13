@@ -1,0 +1,12 @@
+# comiled source #
+##################
+.com
+.asset
+.exe
+.sln
+.meta
+.xml
+
+# packages #
+##################
+
